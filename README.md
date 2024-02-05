@@ -1,1 +1,1 @@
-![](image/sakura.jpg)
+![](img/sakura.jpg)
