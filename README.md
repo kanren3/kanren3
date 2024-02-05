@@ -1,1 +1,1 @@
-![](Image/ArimaKana.gif)
+![](image/sakura.jpg)
